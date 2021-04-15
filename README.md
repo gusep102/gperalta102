@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gus
 - 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently studying Javascript
 - 📫 Reach me on my [website](https://gusperalta.com/contactme)
 
 <!---
